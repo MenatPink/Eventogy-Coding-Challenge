@@ -1,0 +1,13 @@
+{
+    "require": {
+        "phpunit/phpunit": "^8.1"
+    },
+    "autoload": {
+        "classmap": [
+            "app/"
+        ]
+    },
+    "require-dev": {
+        "codedungeon/phpunit-result-printer": "^0.26.2"
+    }
+}
